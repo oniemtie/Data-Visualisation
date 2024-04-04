@@ -1,0 +1,3 @@
+[submodule "flight-delay-dashboard"]
+	path = flight-delay-dashboard
+	url = https://github.com/oniemtie/flight-delay-dashboard.git
